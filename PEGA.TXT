@@ -1,1 +1,1 @@
-https://platao.free.nf/apps/man/tv.php
+https://platao.free.nf/apps/man/tv.php,https://platao.free.nf/apps/man/remote.php
