@@ -1,1 +1,1 @@
-sgu-man{https://sisman.byethost14.com/apps/man/tv.php,https://sisman.byethost14.com/apps/man/remote.php}
+sgu-man{https://platao.gesvix.com/apps/man/tv.php,https://platao.gesvix.com/apps/man/remote.php}
