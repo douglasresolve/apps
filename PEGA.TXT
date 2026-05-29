@@ -1,1 +1,1 @@
-sgu-man{https://platao.gesvix.com/apps/man/tv.php,https://platao.gesvix.com/apps/man/remote.php}
+sgu-man{https://platao.gesvix.com/apps/man/tv.php,https://platao.gesvix.com/apps/man/rem/remote.php,https://raw.githubusercontent.com/helenfernanda/gratis/main/iptvlegal.m3u,tvok}
