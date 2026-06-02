@@ -1,1 +1,1 @@
-sgu-man{https://platao.gesvix.com/apps/man/tv.php,https://platao.gesvix.com/apps/man/rem/remote.php,https://platao.gesvix.com/apps/man/rem/cn.txt,tvok}
+sgu-man{https://platao.gesvix.com/apps/man/tv.php,https://platao.gesvix.com/apps/man/rem/remote.php,https://platao.gesvix.com/apps/man/rem/cn.m3u8,tvok}
