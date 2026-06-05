@@ -1,1 +1,1 @@
-sgu-man{http://glpi.platao.saude.am.gov.br/plugins/dashboard/front/tickets/tickets.php,https://platao.gesvix.com/apps/man/rem/remote.php,http://iptvperfeito.ddns.net:25461/get.php?username=302028685&password=302028685&type=m3u_plus&output=hls,tvok}
+sgu-man{http://glpi.platao.saude.am.gov.br/plugins/dashboard/front/tickets/tickets.php,https://platao.gesvix.com/apps/man/rem/remote.php,https://platao.gesvix.com/apps/man/rem/cn.m3u8,tvok}
