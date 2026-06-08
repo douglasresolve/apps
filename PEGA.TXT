@@ -1,1 +1,1 @@
-sgu-man{http://glpi.platao.saude.am.gov.br/plugins/dashboard/front/tickets/tickets.php,https://platao.gesvix.com/apps/man/rem/remote.php,https://platao.gesvix.com/apps/man/rem/cn.m3u8,tvok}
+sgu-man{https://glpi.platao.saude.am.gov.br/plugins/dashboard/front/tickets/tickets.php,https://platao.gesvix.com/apps/man/rem/remote.php,https://platao.gesvix.com/apps/man/rem/cn.m3u8,tvok}
